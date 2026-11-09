@@ -1,0 +1,7 @@
+node_modules
+dist
+dist-server
+data
+.taste-skill
+*.log
+.DS_Store
