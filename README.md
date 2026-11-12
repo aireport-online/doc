@@ -1,5 +1,11 @@
 # Doc
 
+## Over deze publicatie
+
+Deze broncode is gedeeld bij de AI Report-masterclass over software bouwen met AI.
+Je kunt het project bestuderen, zelf draaien, forken en aanpassen onder de [MIT-licentie](LICENSE).
+Dit is een voorbeeldproject uit de masterclass; er wordt geen gehoste dienst of doorlopend onderhoud aangeboden.
+
 Een online tekstverwerker waarin je samen in één document schrijft, met volledige versiegeschiedenis.
 
 - **Samenwerken in realtime**: iedereen met de link schrijft tegelijk in hetzelfde document. Je ziet elkaars cursor, selectie en naam, en wie het document open heeft. Wijzigingen worden zonder conflicten samengevoegd (CRDT), ook als je verbinding even wegvalt.
